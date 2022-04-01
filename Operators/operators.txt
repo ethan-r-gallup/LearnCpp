@@ -1,0 +1,24 @@
+/*****************************************************************
+ *  6 TYPES OF OPERATORS
+ *  1. Arithmatic
+ *      a) binary operators arithmatically combine 2 operands
+ *          (+, -, *, /, %)
+ *      b) unary operators change a single operand
+ *          (++, --)
+ *  2. Relational
+ *      Used to compare 2 operands.
+ *          (==, !=, >= , <=)
+ *  3. Logical
+ *      Logical Operators are generally used to combine conditions 
+ *      or booleans. The ! operator can modify a single condition
+ *      to mean not.
+ *          (&&, ||, !)
+ *  4. Bitwise
+ *      Bitwise operators perform bit-level operations on the 
+ *      operands.
+ *  5. Assignment
+ *      Assignment operators assign a value to a variable.
+ *          (=, +=, -=, *=, /=)
+ *  6. Other
+ * 
+******************************************************************/
